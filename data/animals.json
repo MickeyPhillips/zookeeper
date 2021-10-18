@@ -108,6 +108,43 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Gilbert",
+      "species": "Turtle",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Michael",
+      "species": "Donkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
